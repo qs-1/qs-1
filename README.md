@@ -1,16 +1,14 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://leetcode.com/qato/">
+    <img src="https://leetcard.jacoblin.cool/qato" alt="Leetcode Stats">
+  </a>
+</p>
 
-<!--
-**qs-1/qs-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <br>
+  <a href="https://wakatime.com/@018e6230-2deb-46cc-86ee-071ea0c2a5d1">
+    <img src="https://wakatime.com/badge/user/018e6230-2deb-46cc-86ee-071ea0c2a5d1.svg" alt="Total Time Spent">
+  </a>
+</p>
